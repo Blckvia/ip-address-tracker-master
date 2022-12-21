@@ -4,6 +4,11 @@
 
 # Vercel Demo
 [Demo: IP Tracker](https://ip-address-tracker-master-fawn.vercel.app/)
+
+## Tech stack
+
+It was created with html css and vanilla js.
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
